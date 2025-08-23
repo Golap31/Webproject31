@@ -1,0 +1,9 @@
+.rating-container {
+    max-width: 500px;
+    margin: auto;
+    font-family: sans-serif;
+    background: #fefefe;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
