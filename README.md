@@ -1,26 +1,10 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
-
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
-
-## Getting Started
-
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+This is a members only blog website named "Perfect Cup" created for a fictional coffee named Crimson Cup .I have created this project as part of my Web Application project all by myself as projects were individual for each student . The project has the following features 1.User Registration & Login (with email and password ) 
+2.User Profiles (display name, posts made by other customers ) 
+3.Password Encryption Functionality 
+4.Post Creation (Members of coffee shop or customers can create posts and those created posts needs to be approved/ban by admin )
+5.Post Editing & Deletion ( A customer can only edit or delete an approved post by the admin) 
+6. Comments Section where users of the system can interact with each other . A user will first write his or her name first then write the comment 
+7. A Simple rating system where users can rate the web system. ( 1 or 2 or 3 or or 5 star ratings ) 
+8. Coffee Quiz or Survey (to recommend drinks or content)- User answers some fun questions and hits submit. 
+9.Event Calendar for coffee tastings or workshops. 
+10. User Management (approve or ban posts ) - Admin can approve or ban posts. Admin can delete a user
