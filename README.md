@@ -26,3 +26,6 @@ Coffee Quiz/Survey – Fun questionnaire to recommend drinks or content.
 Event Calendar – Schedule coffee tastings and workshops.
 
 Admin Controls – Manage posts and users (approve, ban, or delete).
+
+Technologies Used : PHP , HTML & CSS and JavaScript , MY SQL Database
+
